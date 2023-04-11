@@ -26,17 +26,20 @@
 
 
 ![alt text](https://github.com/gamzeaslan/diabetes_prediction_app/blob/main/describe.png "Describe")
+
 * By examining the distributions of these values, I filled the 0 values with the mean and median values
 ![alt text](https://github.com/gamzeaslan/diabetes_prediction_app/blob/main/hist.png "Hist Graph")
+
 * Then I drew a boxplot to examine the outliers in the variables:
 ![alt text](https://github.com/gamzeaslan/diabetes_prediction_app/blob/main/outlier.png "Outlier-Boxplot")
+
 * I equated outliers to upper bound or lower bound with suppression method
 
 # Feature Seleciton:
 * First I examined the relationships between the corr table and the data
 * Then I visualized these relationships with a heatmap:
-https://github.com/gamzeaslan/diabetes_prediction_app/blob/main/heatmap%20.png
 ![alt text](https://github.com/gamzeaslan/diabetes_prediction_app/blob/main/heatmap%20.png "Heatmap")
+
 * Then, by calling the summary function on the OLS object, I examined the significance levels of the variables for the outcome value.
 
 ![alt text](https://github.com/gamzeaslan/diabetes_prediction_app/blob/main/summary.png "OLS summary")
