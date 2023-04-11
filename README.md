@@ -67,7 +67,7 @@
 * I chose the decision tree as the model since the highest accuracy score value came with the decision tree.
 
 # Model Saving:
-* Finally, after saving the model using the pickle library, I deployed my model with the streamlite library and finally, my application outputs the information on whether there is diabetes in line with the information entered by the user.
+* Finally, after saving the model using the pickle library, I deployed my model with the streamlit library and finally, my application outputs the information on whether there is diabetes in line with the information entered by the user.
 
 ![alt text](https://github.com/gamzeaslan/diabetes_prediction_app/blob/main/web.png "WEB")
 
