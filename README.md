@@ -23,6 +23,8 @@
 	* SkinThickness
 	* Insulin
 	* BMI
+
+
 ![alt text](https://github.com/gamzeaslan/diabetes_prediction_app/blob/main/describe.png "Describe")
 * By examining the distributions of these values, I filled the 0 values with the mean and median values
 ![alt text](https://github.com/gamzeaslan/diabetes_prediction_app/blob/main/hist.png "Hist Graph")
