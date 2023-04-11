@@ -2,8 +2,9 @@
 # coding: utf-8
 
 # In[4]:
-
-
+"""
+url=http://localhost:8501/
+"""
 
 
 # In[5]:
