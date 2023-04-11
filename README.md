@@ -14,7 +14,7 @@
 
 # Code and Resources Used:
 * **Python Version** : 3.10.9
-* **Packages** : pandas,numpy,matplotlib,seaborn,sklearn,xgboost,lightgbm,pickle,stramlit and warnings
+* **Packages** : pandas,numpy,matplotlib,seaborn,sklearn,xgboost,lightgbm,pickle,streamlit and warnings
 
 # Data Cleaning
 * When I examined the variables with df.describe(), I saw that the min value of the values that could not be 0 in terms of health was 0. These variables are:
